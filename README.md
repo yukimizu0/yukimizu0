@@ -13,7 +13,7 @@
   >
 </p>
   <body>
-    <h1 style="font-size:40px;" align = "center"><strong>Hi! I'm Serenity.</strong></h1><br>
+    <h1 style="font-size:40px;" align = "center"><strong>Hi! I'm Yuki.</strong></h1><br>
     <p align = "center">
       I am currently learning... <br>
       <em>- Python </em><br>
