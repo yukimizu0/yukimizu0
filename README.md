@@ -40,7 +40,7 @@
     </p>
 <!---
 https://user-images.githubusercontent.com/87384289/171029453-aa165f58-3262-4a71-9691-e4ce37c853c6.png
-Ren280/Ren280 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+yukimizu0/yukimizu0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
