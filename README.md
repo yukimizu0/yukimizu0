@@ -27,7 +27,7 @@
     <p align = "center">
       Jamaican American, College Student, Girlboss<br>
       I am always interested in improving my coding skills and would love to collaborate on any project!<br><br>
-      <strong>Discord: </strong>Serenity#3215<br>
+      <strong>Discord: </strong>yuki#8530<br>
       <strong>Pangolins: </strong>https://www.savepangolins.org/
     </p>
   </body>
